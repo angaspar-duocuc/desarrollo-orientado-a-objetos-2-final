@@ -1,0 +1,5 @@
+# Copiar a config/local.properties
+db.url=jdbc:mysql://localhost:3306/biblioteca_escolar?connectTimeout=5000&socketTimeout=15000&connectionTimeZone=LOCAL
+db.user=DATABASE_USER
+db.password=DATABASE_PASSWORD
+loan.days=14
